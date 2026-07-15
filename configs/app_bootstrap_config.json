@@ -1,0 +1,109 @@
+{
+  "app_version": {
+    "latest_version": "1.0.0",
+    "min_version": "1.0.0",
+    "force_update": false,
+    "soft_update": false,
+    "update_url": {
+      "android": "https://play.google.com/store/apps/details?id=com.ndmanh96.kidarena",
+      "ios": "https://apps.apple.com/app/id6440000000"
+    }
+  },
+  "configs": {
+    "figure_accessory_translations_url": "http://localhost:8080/cdn/translations/figure_accessory_translations.json",
+    "pet_translations_url": "http://localhost:8080/cdn/translations/pet_translations.json",
+    "ad_interval_minutes": 15
+  },
+  "grades": [
+    {
+      "id": "grade_1",
+      "level": 1,
+      "name": {
+        "vi": "Lớp 1",
+        "en": "Grade 1"
+      },
+      "subjects": [
+        {
+          "id": "math",
+          "name": {
+            "vi": "Toán học",
+            "en": "Mathematics"
+          },
+          "questions_url": "http://localhost:8080/cdn/questions/grade_1_math.json"
+        }
+      ]
+    },
+    {
+      "id": "grade_2",
+      "level": 2,
+      "name": {
+        "vi": "Lớp 2",
+        "en": "Grade 2"
+      },
+      "subjects": [
+        {
+          "id": "math",
+          "name": {
+            "vi": "Toán học",
+            "en": "Mathematics"
+          },
+          "questions_url": "http://localhost:8080/cdn/questions/grade_2_math.json"
+        }
+      ]
+    },
+    {
+      "id": "grade_3",
+      "level": 3,
+      "name": {
+        "vi": "Lớp 3",
+        "en": "Grade 3"
+      },
+      "subjects": [
+        {
+          "id": "math",
+          "name": {
+            "vi": "Toán học",
+            "en": "Mathematics"
+          },
+          "questions_url": "http://localhost:8080/cdn/questions/grade_3_math.json"
+        }
+      ]
+    },
+    {
+      "id": "grade_4",
+      "level": 4,
+      "name": {
+        "vi": "Lớp 4",
+        "en": "Grade 4"
+      },
+      "subjects": [
+        {
+          "id": "math",
+          "name": {
+            "vi": "Toán học",
+            "en": "Mathematics"
+          },
+          "questions_url": "http://localhost:8080/cdn/questions/grade_4_math.json"
+        }
+      ]
+    },
+    {
+      "id": "grade_5",
+      "level": 5,
+      "name": {
+        "vi": "Lớp 5",
+        "en": "Grade 5"
+      },
+      "subjects": [
+        {
+          "id": "math",
+          "name": {
+            "vi": "Toán học",
+            "en": "Mathematics"
+          },
+          "questions_url": "http://localhost:8080/cdn/questions/grade_5_math.json"
+        }
+      ]
+    }
+  ]
+}

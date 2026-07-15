@@ -1,0 +1,10002 @@
+[
+  {
+    "question": "45 : 9",
+    "answer": 5,
+    "wrong": [
+      11,
+      3,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 2 + 6",
+    "answer": 28,
+    "wrong": [
+      21,
+      30,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 20 - 20",
+    "answer": 42,
+    "wrong": [
+      35,
+      49,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 7",
+    "answer": 35,
+    "wrong": [
+      29,
+      39,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 25 - 8",
+    "answer": 37,
+    "wrong": [
+      36,
+      30,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 : 2",
+    "answer": 7,
+    "wrong": [
+      6,
+      2,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 14",
+    "answer": 74,
+    "wrong": [
+      79,
+      76,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 : 5",
+    "answer": 6,
+    "wrong": [
+      13,
+      9,
+      5
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 : 3",
+    "answer": 8,
+    "wrong": [
+      13,
+      9,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3",
+    "answer": 12,
+    "wrong": [
+      6,
+      18,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 26 - 3",
+    "answer": 34,
+    "wrong": [
+      35,
+      32,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 19",
+    "answer": 40,
+    "wrong": [
+      41,
+      39,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2",
+    "answer": 6,
+    "wrong": [
+      12,
+      9,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 : 6",
+    "answer": 4,
+    "wrong": [
+      9,
+      3,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 18",
+    "answer": 30,
+    "wrong": [
+      33,
+      23,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 8",
+    "answer": 16,
+    "wrong": [
+      18,
+      21,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 19",
+    "answer": 27,
+    "wrong": [
+      22,
+      32,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 : 8",
+    "answer": 7,
+    "wrong": [
+      10,
+      9,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3",
+    "answer": 24,
+    "wrong": [
+      20,
+      18,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 : 6",
+    "answer": 6,
+    "wrong": [
+      10,
+      8,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2",
+    "answer": 4,
+    "wrong": [
+      11,
+      5,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 18 - 15",
+    "answer": 26,
+    "wrong": [
+      20,
+      27,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 22",
+    "answer": 37,
+    "wrong": [
+      40,
+      44,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 : 2",
+    "answer": 3,
+    "wrong": [
+      10,
+      7,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 : 4",
+    "answer": 4,
+    "wrong": [
+      10,
+      11,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 25 - 10",
+    "answer": 48,
+    "wrong": [
+      46,
+      51,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 : 6",
+    "answer": 7,
+    "wrong": [
+      11,
+      8,
+      3
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 : 7",
+    "answer": 5,
+    "wrong": [
+      6,
+      10,
+      0
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4",
+    "answer": 12,
+    "wrong": [
+      18,
+      19,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 20",
+    "answer": 44,
+    "wrong": [
+      49,
+      41,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 8",
+    "answer": 48,
+    "wrong": [
+      50,
+      41,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 6 - 14",
+    "answer": 19,
+    "wrong": [
+      21,
+      22,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 23 - 3",
+    "answer": 51,
+    "wrong": [
+      45,
+      47,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 5 - 6",
+    "answer": 15,
+    "wrong": [
+      17,
+      8,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 7",
+    "answer": 63,
+    "wrong": [
+      62,
+      58,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 3 + 21",
+    "answer": 48,
+    "wrong": [
+      41,
+      51,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3 + 6",
+    "answer": 12,
+    "wrong": [
+      10,
+      11,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "72 : 9",
+    "answer": 8,
+    "wrong": [
+      3,
+      10,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 29 - 19",
+    "answer": 45,
+    "wrong": [
+      41,
+      42,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 7",
+    "answer": 56,
+    "wrong": [
+      62,
+      58,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 12",
+    "answer": 33,
+    "wrong": [
+      39,
+      40,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 12",
+    "answer": 16,
+    "wrong": [
+      18,
+      9,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 23",
+    "answer": 73,
+    "wrong": [
+      72,
+      67,
+      80
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 7",
+    "answer": 31,
+    "wrong": [
+      32,
+      34,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4",
+    "answer": 16,
+    "wrong": [
+      10,
+      22,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 10",
+    "answer": 43,
+    "wrong": [
+      47,
+      49,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 : 7",
+    "answer": 6,
+    "wrong": [
+      1,
+      5,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 : 6",
+    "answer": 5,
+    "wrong": [
+      7,
+      10,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 15 - 21",
+    "answer": 42,
+    "wrong": [
+      36,
+      45,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 13 - 10",
+    "answer": 34,
+    "wrong": [
+      33,
+      29,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4",
+    "answer": 36,
+    "wrong": [
+      37,
+      30,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6",
+    "answer": 18,
+    "wrong": [
+      21,
+      17,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 33 - 18",
+    "answer": 64,
+    "wrong": [
+      68,
+      63,
+      69
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 8",
+    "answer": 32,
+    "wrong": [
+      27,
+      26,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 18 - 11",
+    "answer": 22,
+    "wrong": [
+      21,
+      27,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3",
+    "answer": 15,
+    "wrong": [
+      12,
+      19,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4",
+    "answer": 32,
+    "wrong": [
+      28,
+      39,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 15",
+    "answer": 19,
+    "wrong": [
+      17,
+      25,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 : 8",
+    "answer": 5,
+    "wrong": [
+      4,
+      2,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 8",
+    "answer": 40,
+    "wrong": [
+      47,
+      45,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 5",
+    "answer": 35,
+    "wrong": [
+      30,
+      29,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 13 - 6",
+    "answer": 57,
+    "wrong": [
+      59,
+      51,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 32 - 9",
+    "answer": 61,
+    "wrong": [
+      67,
+      55,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 19",
+    "answer": 63,
+    "wrong": [
+      59,
+      62,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "63 : 9",
+    "answer": 7,
+    "wrong": [
+      8,
+      5,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 11",
+    "answer": 31,
+    "wrong": [
+      26,
+      27,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 22",
+    "answer": 40,
+    "wrong": [
+      35,
+      36,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 23 - 8",
+    "answer": 39,
+    "wrong": [
+      44,
+      40,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 34 - 2",
+    "answer": 90,
+    "wrong": [
+      85,
+      93,
+      89
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 18 - 10",
+    "answer": 28,
+    "wrong": [
+      33,
+      21,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 6",
+    "answer": 21,
+    "wrong": [
+      23,
+      27,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 22 - 12",
+    "answer": 39,
+    "wrong": [
+      38,
+      40,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 29 - 2",
+    "answer": 78,
+    "wrong": [
+      71,
+      80,
+      81
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 : 7",
+    "answer": 4,
+    "wrong": [
+      6,
+      10,
+      3
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 11 - 12",
+    "answer": 17,
+    "wrong": [
+      24,
+      12,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 15",
+    "answer": 35,
+    "wrong": [
+      38,
+      42,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 : 2",
+    "answer": 8,
+    "wrong": [
+      1,
+      7,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 20",
+    "answer": 29,
+    "wrong": [
+      33,
+      35,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6",
+    "answer": 42,
+    "wrong": [
+      38,
+      41,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 : 6",
+    "answer": 2,
+    "wrong": [
+      0,
+      9,
+      3
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "63 : 7",
+    "answer": 9,
+    "wrong": [
+      3,
+      12,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 : 7",
+    "answer": 3,
+    "wrong": [
+      6,
+      2,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 28 - 13",
+    "answer": 65,
+    "wrong": [
+      67,
+      66,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 9",
+    "answer": 18,
+    "wrong": [
+      19,
+      21,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 + 10 - 6",
+    "answer": 36,
+    "wrong": [
+      32,
+      30,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 : 7",
+    "answer": 8,
+    "wrong": [
+      14,
+      11,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 9 - 13",
+    "answer": 44,
+    "wrong": [
+      42,
+      37,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 8",
+    "answer": 41,
+    "wrong": [
+      48,
+      38,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 30 - 11",
+    "answer": 75,
+    "wrong": [
+      80,
+      68,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 11",
+    "answer": 20,
+    "wrong": [
+      17,
+      14,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 26 - 7",
+    "answer": 34,
+    "wrong": [
+      32,
+      38,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 : 4",
+    "answer": 2,
+    "wrong": [
+      4,
+      0,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 17",
+    "answer": 41,
+    "wrong": [
+      38,
+      45,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 3",
+    "answer": 27,
+    "wrong": [
+      34,
+      30,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5",
+    "answer": 35,
+    "wrong": [
+      39,
+      34,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 17 - 16",
+    "answer": 59,
+    "wrong": [
+      61,
+      54,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 : 3",
+    "answer": 9,
+    "wrong": [
+      7,
+      4,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 : 2",
+    "answer": 6,
+    "wrong": [
+      8,
+      2,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2",
+    "answer": 18,
+    "wrong": [
+      21,
+      19,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 + 27 - 14",
+    "answer": 45,
+    "wrong": [
+      48,
+      39,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6",
+    "answer": 30,
+    "wrong": [
+      34,
+      23,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 20 - 4",
+    "answer": 56,
+    "wrong": [
+      58,
+      54,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 19",
+    "answer": 55,
+    "wrong": [
+      48,
+      53,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 5",
+    "answer": 15,
+    "wrong": [
+      16,
+      10,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 : 3",
+    "answer": 6,
+    "wrong": [
+      3,
+      5,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 16",
+    "answer": 24,
+    "wrong": [
+      19,
+      18,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 : 5",
+    "answer": 9,
+    "wrong": [
+      13,
+      2,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 : 2",
+    "answer": 2,
+    "wrong": [
+      5,
+      0,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 20",
+    "answer": 75,
+    "wrong": [
+      71,
+      68,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 32 - 6",
+    "answer": 38,
+    "wrong": [
+      37,
+      34,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 9",
+    "answer": 21,
+    "wrong": [
+      26,
+      18,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 7",
+    "answer": 42,
+    "wrong": [
+      41,
+      37,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6 + 6",
+    "answer": 36,
+    "wrong": [
+      43,
+      37,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 5 - 10",
+    "answer": 52,
+    "wrong": [
+      59,
+      49,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 6",
+    "answer": 30,
+    "wrong": [
+      31,
+      33,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 : 4",
+    "answer": 7,
+    "wrong": [
+      9,
+      4,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 6",
+    "answer": 72,
+    "wrong": [
+      71,
+      74,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 17 - 4",
+    "answer": 23,
+    "wrong": [
+      29,
+      22,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2",
+    "answer": 12,
+    "wrong": [
+      5,
+      18,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 9",
+    "answer": 72,
+    "wrong": [
+      73,
+      77,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 8",
+    "answer": 28,
+    "wrong": [
+      29,
+      32,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 12",
+    "answer": 21,
+    "wrong": [
+      28,
+      23,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 16 - 21",
+    "answer": 33,
+    "wrong": [
+      32,
+      37,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 31 - 19",
+    "answer": 68,
+    "wrong": [
+      69,
+      62,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 : 3",
+    "answer": 3,
+    "wrong": [
+      2,
+      10,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 16 - 2",
+    "answer": 71,
+    "wrong": [
+      66,
+      72,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 15",
+    "answer": 21,
+    "wrong": [
+      22,
+      17,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 12",
+    "answer": 37,
+    "wrong": [
+      30,
+      36,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "72 : 8",
+    "answer": 9,
+    "wrong": [
+      13,
+      5,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5",
+    "answer": 25,
+    "wrong": [
+      23,
+      19,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 : 3",
+    "answer": 5,
+    "wrong": [
+      2,
+      3,
+      0
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 10",
+    "answer": 70,
+    "wrong": [
+      64,
+      66,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 13",
+    "answer": 67,
+    "wrong": [
+      72,
+      69,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 34 - 20",
+    "answer": 57,
+    "wrong": [
+      55,
+      64,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 : 4",
+    "answer": 3,
+    "wrong": [
+      2,
+      5,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 19",
+    "answer": 43,
+    "wrong": [
+      42,
+      38,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 18 - 12",
+    "answer": 35,
+    "wrong": [
+      31,
+      28,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 13",
+    "answer": 31,
+    "wrong": [
+      37,
+      32,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 16 - 16",
+    "answer": 48,
+    "wrong": [
+      54,
+      55,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 16",
+    "answer": 40,
+    "wrong": [
+      44,
+      42,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 33 - 20",
+    "answer": 48,
+    "wrong": [
+      46,
+      51,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 7",
+    "answer": 15,
+    "wrong": [
+      21,
+      22,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 11",
+    "answer": 35,
+    "wrong": [
+      33,
+      32,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 10 - 20",
+    "answer": 18,
+    "wrong": [
+      22,
+      19,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 10 - 6",
+    "answer": 49,
+    "wrong": [
+      50,
+      53,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 : 5",
+    "answer": 8,
+    "wrong": [
+      11,
+      9,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5",
+    "answer": 45,
+    "wrong": [
+      47,
+      46,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 2 + 9",
+    "answer": 29,
+    "wrong": [
+      31,
+      22,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5",
+    "answer": 30,
+    "wrong": [
+      26,
+      24,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 19",
+    "answer": 52,
+    "wrong": [
+      54,
+      46,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 8",
+    "answer": 16,
+    "wrong": [
+      17,
+      23,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 4 + 12",
+    "answer": 32,
+    "wrong": [
+      30,
+      29,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 22",
+    "answer": 58,
+    "wrong": [
+      60,
+      56,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 : 3",
+    "answer": 4,
+    "wrong": [
+      1,
+      2,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6 + 17",
+    "answer": 59,
+    "wrong": [
+      61,
+      56,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2",
+    "answer": 14,
+    "wrong": [
+      8,
+      11,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6",
+    "answer": 54,
+    "wrong": [
+      57,
+      49,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 11 - 15",
+    "answer": 6,
+    "wrong": [
+      8,
+      1,
+      5
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 7",
+    "answer": 28,
+    "wrong": [
+      34,
+      30,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 + 19 - 6",
+    "answer": 49,
+    "wrong": [
+      44,
+      46,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 23 - 2",
+    "answer": 36,
+    "wrong": [
+      29,
+      32,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 6 - 10",
+    "answer": 52,
+    "wrong": [
+      49,
+      59,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 21",
+    "answer": 27,
+    "wrong": [
+      33,
+      31,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 7 - 12",
+    "answer": 50,
+    "wrong": [
+      53,
+      52,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 34 - 10",
+    "answer": 43,
+    "wrong": [
+      45,
+      37,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4",
+    "answer": 24,
+    "wrong": [
+      26,
+      31,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 34 - 14",
+    "answer": 43,
+    "wrong": [
+      37,
+      36,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 10",
+    "answer": 20,
+    "wrong": [
+      19,
+      16,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 10 - 13",
+    "answer": 12,
+    "wrong": [
+      14,
+      16,
+      5
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 9",
+    "answer": 54,
+    "wrong": [
+      60,
+      61,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 9",
+    "answer": 36,
+    "wrong": [
+      30,
+      37,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 9 - 17",
+    "answer": 44,
+    "wrong": [
+      43,
+      47,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 + 29 - 13",
+    "answer": 52,
+    "wrong": [
+      54,
+      51,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4",
+    "answer": 8,
+    "wrong": [
+      5,
+      3,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 15",
+    "answer": 51,
+    "wrong": [
+      54,
+      45,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 31 - 20",
+    "answer": 53,
+    "wrong": [
+      49,
+      48,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 32 - 10",
+    "answer": 53,
+    "wrong": [
+      59,
+      51,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 16 - 14",
+    "answer": 30,
+    "wrong": [
+      32,
+      26,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5",
+    "answer": 40,
+    "wrong": [
+      45,
+      44,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 31 - 19",
+    "answer": 60,
+    "wrong": [
+      66,
+      53,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 + 16 - 10",
+    "answer": 38,
+    "wrong": [
+      35,
+      44,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 7 - 18",
+    "answer": 48,
+    "wrong": [
+      47,
+      53,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "34 + 12 - 15",
+    "answer": 31,
+    "wrong": [
+      35,
+      28,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 7",
+    "answer": 57,
+    "wrong": [
+      56,
+      52,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 28 - 17",
+    "answer": 32,
+    "wrong": [
+      35,
+      36,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 5",
+    "answer": 13,
+    "wrong": [
+      19,
+      20,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 7",
+    "answer": 25,
+    "wrong": [
+      19,
+      28,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3",
+    "answer": 18,
+    "wrong": [
+      15,
+      13,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 30 - 12",
+    "answer": 43,
+    "wrong": [
+      49,
+      42,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 : 4",
+    "answer": 5,
+    "wrong": [
+      4,
+      8,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 : 9",
+    "answer": 6,
+    "wrong": [
+      9,
+      7,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 7",
+    "answer": 35,
+    "wrong": [
+      41,
+      34,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 20",
+    "answer": 30,
+    "wrong": [
+      26,
+      35,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 10 - 21",
+    "answer": 32,
+    "wrong": [
+      34,
+      36,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 18",
+    "answer": 66,
+    "wrong": [
+      69,
+      62,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 22 - 19",
+    "answer": 59,
+    "wrong": [
+      57,
+      62,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5",
+    "answer": 20,
+    "wrong": [
+      25,
+      18,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 21 - 2",
+    "answer": 46,
+    "wrong": [
+      52,
+      50,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 8",
+    "answer": 64,
+    "wrong": [
+      59,
+      68,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 : 4",
+    "answer": 6,
+    "wrong": [
+      1,
+      8,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 15 - 2",
+    "answer": 40,
+    "wrong": [
+      36,
+      43,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 20 - 7",
+    "answer": 30,
+    "wrong": [
+      28,
+      33,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 17",
+    "answer": 32,
+    "wrong": [
+      26,
+      39,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 : 8",
+    "answer": 3,
+    "wrong": [
+      9,
+      0,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 19",
+    "answer": 29,
+    "wrong": [
+      35,
+      33,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 18",
+    "answer": 51,
+    "wrong": [
+      48,
+      46,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 6 - 12",
+    "answer": 52,
+    "wrong": [
+      48,
+      57,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 12 - 17",
+    "answer": 40,
+    "wrong": [
+      35,
+      39,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6 + 16",
+    "answer": 58,
+    "wrong": [
+      60,
+      52,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 21 - 7",
+    "answer": 62,
+    "wrong": [
+      61,
+      57,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 22",
+    "answer": 57,
+    "wrong": [
+      63,
+      62,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 5",
+    "answer": 25,
+    "wrong": [
+      31,
+      19,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 32 - 6",
+    "answer": 83,
+    "wrong": [
+      85,
+      87,
+      76
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 7",
+    "answer": 14,
+    "wrong": [
+      13,
+      17,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 23 - 7",
+    "answer": 26,
+    "wrong": [
+      28,
+      23,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6",
+    "answer": 36,
+    "wrong": [
+      31,
+      40,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 : 7",
+    "answer": 2,
+    "wrong": [
+      9,
+      8,
+      0
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 23",
+    "answer": 53,
+    "wrong": [
+      52,
+      58,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 31 - 3",
+    "answer": 45,
+    "wrong": [
+      38,
+      51,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 8 - 17",
+    "answer": 38,
+    "wrong": [
+      44,
+      43,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 11 - 19",
+    "answer": 18,
+    "wrong": [
+      19,
+      13,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 13 - 4",
+    "answer": 44,
+    "wrong": [
+      49,
+      42,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 11",
+    "answer": 23,
+    "wrong": [
+      22,
+      30,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 17",
+    "answer": 29,
+    "wrong": [
+      22,
+      34,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 : 5",
+    "answer": 3,
+    "wrong": [
+      0,
+      10,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 8",
+    "answer": 48,
+    "wrong": [
+      43,
+      42,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 14 - 8",
+    "answer": 28,
+    "wrong": [
+      32,
+      24,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 18 - 9",
+    "answer": 34,
+    "wrong": [
+      36,
+      37,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 + 22 - 6",
+    "answer": 52,
+    "wrong": [
+      50,
+      45,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 7 - 18",
+    "answer": 0,
+    "wrong": [
+      3,
+      7,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 9",
+    "answer": 81,
+    "wrong": [
+      75,
+      87,
+      86
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 18",
+    "answer": 78,
+    "wrong": [
+      81,
+      73,
+      79
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 9",
+    "answer": 57,
+    "wrong": [
+      56,
+      53,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 7",
+    "answer": 11,
+    "wrong": [
+      17,
+      7,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 33 - 15",
+    "answer": 51,
+    "wrong": [
+      53,
+      45,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 15 - 19",
+    "answer": 41,
+    "wrong": [
+      44,
+      46,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 11 - 4",
+    "answer": 17,
+    "wrong": [
+      20,
+      13,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 10 - 14",
+    "answer": 17,
+    "wrong": [
+      10,
+      12,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 22",
+    "answer": 26,
+    "wrong": [
+      24,
+      30,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 : 8",
+    "answer": 4,
+    "wrong": [
+      0,
+      5,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 14 - 9",
+    "answer": 31,
+    "wrong": [
+      35,
+      28,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 13",
+    "answer": 68,
+    "wrong": [
+      67,
+      73,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 21 - 20",
+    "answer": 15,
+    "wrong": [
+      10,
+      11,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 8",
+    "answer": 72,
+    "wrong": [
+      73,
+      75,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 : 2",
+    "answer": 4,
+    "wrong": [
+      0,
+      1,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 28 - 13",
+    "answer": 48,
+    "wrong": [
+      46,
+      41,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 10 - 11",
+    "answer": 23,
+    "wrong": [
+      18,
+      30,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 18",
+    "answer": 28,
+    "wrong": [
+      27,
+      23,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 9 - 2",
+    "answer": 33,
+    "wrong": [
+      34,
+      38,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 9 - 15",
+    "answer": 17,
+    "wrong": [
+      12,
+      15,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 9",
+    "answer": 59,
+    "wrong": [
+      64,
+      63,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 7",
+    "answer": 19,
+    "wrong": [
+      18,
+      24,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 9 - 20",
+    "answer": 29,
+    "wrong": [
+      24,
+      28,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 32 - 8",
+    "answer": 55,
+    "wrong": [
+      59,
+      51,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 12",
+    "answer": 22,
+    "wrong": [
+      26,
+      21,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 34 - 14",
+    "answer": 66,
+    "wrong": [
+      72,
+      69,
+      70
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 5 - 17",
+    "answer": 25,
+    "wrong": [
+      28,
+      30,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 4 + 21",
+    "answer": 41,
+    "wrong": [
+      34,
+      40,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 34 - 8",
+    "answer": 64,
+    "wrong": [
+      63,
+      68,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 13",
+    "answer": 31,
+    "wrong": [
+      32,
+      28,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 9",
+    "answer": 63,
+    "wrong": [
+      70,
+      58,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 : 8",
+    "answer": 2,
+    "wrong": [
+      6,
+      3,
+      5
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 24",
+    "answer": 40,
+    "wrong": [
+      45,
+      43,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 17",
+    "answer": 65,
+    "wrong": [
+      69,
+      64,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 21",
+    "answer": 37,
+    "wrong": [
+      32,
+      42,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 8",
+    "answer": 20,
+    "wrong": [
+      24,
+      15,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 11 - 2",
+    "answer": 59,
+    "wrong": [
+      64,
+      52,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 12 - 19",
+    "answer": 6,
+    "wrong": [
+      8,
+      1,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 29 - 17",
+    "answer": 53,
+    "wrong": [
+      57,
+      54,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 19",
+    "answer": 44,
+    "wrong": [
+      46,
+      50,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 : 5",
+    "answer": 4,
+    "wrong": [
+      1,
+      0,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 8 - 18",
+    "answer": 14,
+    "wrong": [
+      18,
+      10,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 7",
+    "answer": 49,
+    "wrong": [
+      48,
+      42,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 28 - 20",
+    "answer": 34,
+    "wrong": [
+      27,
+      36,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 30 - 2",
+    "answer": 69,
+    "wrong": [
+      64,
+      68,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 15",
+    "answer": 29,
+    "wrong": [
+      31,
+      22,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 18",
+    "answer": 54,
+    "wrong": [
+      60,
+      57,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 22 - 9",
+    "answer": 57,
+    "wrong": [
+      59,
+      64,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 15",
+    "answer": 23,
+    "wrong": [
+      30,
+      16,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 15",
+    "answer": 65,
+    "wrong": [
+      68,
+      59,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 13",
+    "answer": 29,
+    "wrong": [
+      30,
+      28,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 : 5",
+    "answer": 5,
+    "wrong": [
+      6,
+      8,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 14",
+    "answer": 32,
+    "wrong": [
+      34,
+      28,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 26 - 11",
+    "answer": 46,
+    "wrong": [
+      45,
+      39,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 6",
+    "answer": 18,
+    "wrong": [
+      11,
+      24,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 : 6",
+    "answer": 9,
+    "wrong": [
+      12,
+      6,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 19",
+    "answer": 73,
+    "wrong": [
+      67,
+      71,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 8",
+    "answer": 74,
+    "wrong": [
+      75,
+      68,
+      79
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 7 - 17",
+    "answer": 47,
+    "wrong": [
+      42,
+      50,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 12",
+    "answer": 57,
+    "wrong": [
+      51,
+      58,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 16 - 9",
+    "answer": 66,
+    "wrong": [
+      71,
+      67,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 25 - 14",
+    "answer": 66,
+    "wrong": [
+      61,
+      59,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 23 - 18",
+    "answer": 23,
+    "wrong": [
+      27,
+      18,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 8",
+    "answer": 26,
+    "wrong": [
+      21,
+      29,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 9 - 18",
+    "answer": 6,
+    "wrong": [
+      11,
+      10,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 16",
+    "answer": 76,
+    "wrong": [
+      77,
+      78,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 15",
+    "answer": 63,
+    "wrong": [
+      57,
+      60,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 32 - 3",
+    "answer": 73,
+    "wrong": [
+      78,
+      76,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 31 - 10",
+    "answer": 35,
+    "wrong": [
+      29,
+      30,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "81 : 9",
+    "answer": 9,
+    "wrong": [
+      2,
+      8,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 : 4",
+    "answer": 8,
+    "wrong": [
+      10,
+      15,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 24 - 20",
+    "answer": 54,
+    "wrong": [
+      58,
+      49,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 29 - 10",
+    "answer": 69,
+    "wrong": [
+      62,
+      75,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 9",
+    "answer": 27,
+    "wrong": [
+      24,
+      23,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 33 - 15",
+    "answer": 30,
+    "wrong": [
+      32,
+      24,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 13",
+    "answer": 61,
+    "wrong": [
+      64,
+      57,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 31 - 15",
+    "answer": 60,
+    "wrong": [
+      58,
+      61,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 19",
+    "answer": 37,
+    "wrong": [
+      39,
+      33,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 17 - 12",
+    "answer": 28,
+    "wrong": [
+      24,
+      32,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 : 8",
+    "answer": 6,
+    "wrong": [
+      3,
+      11,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 25 - 10",
+    "answer": 44,
+    "wrong": [
+      45,
+      37,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 : 2",
+    "answer": 5,
+    "wrong": [
+      2,
+      9,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 6",
+    "answer": 66,
+    "wrong": [
+      69,
+      68,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 16 - 9",
+    "answer": 33,
+    "wrong": [
+      36,
+      31,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 12 - 20",
+    "answer": 18,
+    "wrong": [
+      20,
+      12,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 27 - 21",
+    "answer": 47,
+    "wrong": [
+      52,
+      54,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 22",
+    "answer": 32,
+    "wrong": [
+      27,
+      38,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 6",
+    "answer": 16,
+    "wrong": [
+      18,
+      15,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 24 - 4",
+    "answer": 47,
+    "wrong": [
+      42,
+      43,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 : 5",
+    "answer": 2,
+    "wrong": [
+      6,
+      8,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 21 - 7",
+    "answer": 54,
+    "wrong": [
+      56,
+      61,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 9 - 6",
+    "answer": 13,
+    "wrong": [
+      17,
+      20,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 28 - 21",
+    "answer": 44,
+    "wrong": [
+      37,
+      51,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 21 - 11",
+    "answer": 63,
+    "wrong": [
+      67,
+      58,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 13 - 5",
+    "answer": 25,
+    "wrong": [
+      32,
+      31,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 19 - 2",
+    "answer": 75,
+    "wrong": [
+      79,
+      77,
+      69
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 5 - 8",
+    "answer": 39,
+    "wrong": [
+      38,
+      33,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 15",
+    "answer": 27,
+    "wrong": [
+      24,
+      32,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 30 - 4",
+    "answer": 69,
+    "wrong": [
+      74,
+      68,
+      76
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 24",
+    "answer": 39,
+    "wrong": [
+      44,
+      40,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 8",
+    "answer": 24,
+    "wrong": [
+      29,
+      17,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 27 - 20",
+    "answer": 60,
+    "wrong": [
+      54,
+      64,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 : 4",
+    "answer": 9,
+    "wrong": [
+      8,
+      4,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 11",
+    "answer": 32,
+    "wrong": [
+      38,
+      36,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 10 - 14",
+    "answer": 6,
+    "wrong": [
+      1,
+      0,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 23 - 18",
+    "answer": 20,
+    "wrong": [
+      23,
+      14,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 9 - 3",
+    "answer": 46,
+    "wrong": [
+      45,
+      49,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 20",
+    "answer": 50,
+    "wrong": [
+      49,
+      55,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 5 - 18",
+    "answer": 15,
+    "wrong": [
+      8,
+      14,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 20",
+    "answer": 50,
+    "wrong": [
+      55,
+      47,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 6 - 11",
+    "answer": 8,
+    "wrong": [
+      1,
+      4,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 9",
+    "answer": 24,
+    "wrong": [
+      23,
+      27,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 4",
+    "answer": 20,
+    "wrong": [
+      17,
+      21,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 8 - 4",
+    "answer": 23,
+    "wrong": [
+      22,
+      25,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 13 - 6",
+    "answer": 36,
+    "wrong": [
+      29,
+      42,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 14",
+    "answer": 32,
+    "wrong": [
+      29,
+      39,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 21 - 19",
+    "answer": 15,
+    "wrong": [
+      8,
+      16,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 14",
+    "answer": 22,
+    "wrong": [
+      25,
+      27,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 33 - 20",
+    "answer": 64,
+    "wrong": [
+      66,
+      63,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 18 - 18",
+    "answer": 59,
+    "wrong": [
+      53,
+      62,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3 + 12",
+    "answer": 18,
+    "wrong": [
+      12,
+      11,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 30 - 21",
+    "answer": 49,
+    "wrong": [
+      51,
+      46,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 22 - 7",
+    "answer": 50,
+    "wrong": [
+      49,
+      57,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 19 - 21",
+    "answer": 19,
+    "wrong": [
+      16,
+      15,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 16 - 21",
+    "answer": 10,
+    "wrong": [
+      15,
+      9,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 28 - 9",
+    "answer": 33,
+    "wrong": [
+      34,
+      32,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 : 5",
+    "answer": 7,
+    "wrong": [
+      3,
+      10,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 : 6",
+    "answer": 3,
+    "wrong": [
+      7,
+      10,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 13",
+    "answer": 37,
+    "wrong": [
+      39,
+      44,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 21",
+    "answer": 81,
+    "wrong": [
+      75,
+      87,
+      88
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 17",
+    "answer": 41,
+    "wrong": [
+      36,
+      35,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 27 - 11",
+    "answer": 34,
+    "wrong": [
+      36,
+      35,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 7 - 13",
+    "answer": 23,
+    "wrong": [
+      28,
+      26,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 9 - 13",
+    "answer": 42,
+    "wrong": [
+      39,
+      44,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 8",
+    "answer": 56,
+    "wrong": [
+      63,
+      62,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 14 - 16",
+    "answer": 38,
+    "wrong": [
+      33,
+      43,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6 + 16",
+    "answer": 46,
+    "wrong": [
+      51,
+      42,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 5",
+    "answer": 65,
+    "wrong": [
+      72,
+      60,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 18 - 17",
+    "answer": 16,
+    "wrong": [
+      17,
+      19,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 5 - 21",
+    "answer": 2,
+    "wrong": [
+      1,
+      8,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 22",
+    "answer": 46,
+    "wrong": [
+      45,
+      50,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 : 3",
+    "answer": 7,
+    "wrong": [
+      13,
+      0,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3",
+    "answer": 9,
+    "wrong": [
+      12,
+      7,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 14",
+    "answer": 38,
+    "wrong": [
+      34,
+      33,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 17",
+    "answer": 21,
+    "wrong": [
+      19,
+      22,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 5",
+    "answer": 37,
+    "wrong": [
+      33,
+      38,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2",
+    "answer": 8,
+    "wrong": [
+      11,
+      7,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 24",
+    "answer": 30,
+    "wrong": [
+      36,
+      35,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 8",
+    "answer": 26,
+    "wrong": [
+      24,
+      27,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6",
+    "answer": 24,
+    "wrong": [
+      31,
+      21,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 25 - 10",
+    "answer": 71,
+    "wrong": [
+      76,
+      78,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 17 - 5",
+    "answer": 61,
+    "wrong": [
+      64,
+      68,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6 + 12",
+    "answer": 54,
+    "wrong": [
+      48,
+      49,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 32 - 19",
+    "answer": 67,
+    "wrong": [
+      70,
+      66,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 34 - 21",
+    "answer": 34,
+    "wrong": [
+      39,
+      29,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 : 6",
+    "answer": 8,
+    "wrong": [
+      3,
+      15,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 6",
+    "answer": 16,
+    "wrong": [
+      13,
+      20,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 30 - 5",
+    "answer": 40,
+    "wrong": [
+      47,
+      46,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 31 - 6",
+    "answer": 54,
+    "wrong": [
+      49,
+      56,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 20",
+    "answer": 36,
+    "wrong": [
+      43,
+      35,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 29 - 11",
+    "answer": 60,
+    "wrong": [
+      58,
+      62,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 23 - 20",
+    "answer": 50,
+    "wrong": [
+      49,
+      44,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 12",
+    "answer": 40,
+    "wrong": [
+      35,
+      34,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 15",
+    "answer": 24,
+    "wrong": [
+      17,
+      18,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 16 - 15",
+    "answer": 50,
+    "wrong": [
+      52,
+      45,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 : 9",
+    "answer": 4,
+    "wrong": [
+      7,
+      5,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 17",
+    "answer": 35,
+    "wrong": [
+      32,
+      29,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 11 - 11",
+    "answer": 21,
+    "wrong": [
+      19,
+      23,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5",
+    "answer": 10,
+    "wrong": [
+      15,
+      3,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 26 - 3",
+    "answer": 78,
+    "wrong": [
+      85,
+      80,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 31 - 17",
+    "answer": 45,
+    "wrong": [
+      41,
+      48,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 12 - 17",
+    "answer": 46,
+    "wrong": [
+      53,
+      50,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 11",
+    "answer": 77,
+    "wrong": [
+      81,
+      75,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 12 - 19",
+    "answer": 33,
+    "wrong": [
+      37,
+      32,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 22 - 15",
+    "answer": 17,
+    "wrong": [
+      20,
+      10,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 9",
+    "answer": 25,
+    "wrong": [
+      23,
+      27,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 15",
+    "answer": 40,
+    "wrong": [
+      36,
+      33,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 : 2",
+    "answer": 9,
+    "wrong": [
+      12,
+      15,
+      3
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 11",
+    "answer": 26,
+    "wrong": [
+      20,
+      33,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 6 - 10",
+    "answer": 6,
+    "wrong": [
+      11,
+      3,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 17 - 13",
+    "answer": 57,
+    "wrong": [
+      60,
+      62,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 8",
+    "answer": 32,
+    "wrong": [
+      30,
+      26,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "64 : 8",
+    "answer": 8,
+    "wrong": [
+      11,
+      15,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 7 - 7",
+    "answer": 30,
+    "wrong": [
+      33,
+      32,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 8 - 13",
+    "answer": 48,
+    "wrong": [
+      53,
+      47,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 : 3",
+    "answer": 2,
+    "wrong": [
+      0,
+      9,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 18",
+    "answer": 36,
+    "wrong": [
+      40,
+      35,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 25 - 12",
+    "answer": 26,
+    "wrong": [
+      33,
+      27,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 16",
+    "answer": 31,
+    "wrong": [
+      24,
+      29,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "48 + 12 - 10",
+    "answer": 50,
+    "wrong": [
+      57,
+      49,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 10 - 8",
+    "answer": 46,
+    "wrong": [
+      40,
+      52,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 32 - 2",
+    "answer": 43,
+    "wrong": [
+      40,
+      49,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 7 - 4",
+    "answer": 34,
+    "wrong": [
+      41,
+      40,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 28 - 14",
+    "answer": 37,
+    "wrong": [
+      40,
+      38,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 24 - 15",
+    "answer": 32,
+    "wrong": [
+      36,
+      27,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 30 - 19",
+    "answer": 40,
+    "wrong": [
+      42,
+      46,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 6 - 2",
+    "answer": 30,
+    "wrong": [
+      35,
+      27,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 11 - 12",
+    "answer": 36,
+    "wrong": [
+      40,
+      33,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 10",
+    "answer": 18,
+    "wrong": [
+      22,
+      12,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 19",
+    "answer": 74,
+    "wrong": [
+      67,
+      68,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 24",
+    "answer": 45,
+    "wrong": [
+      52,
+      47,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 20 - 2",
+    "answer": 57,
+    "wrong": [
+      53,
+      51,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 16",
+    "answer": 28,
+    "wrong": [
+      22,
+      34,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 22",
+    "answer": 58,
+    "wrong": [
+      63,
+      55,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 7",
+    "answer": 21,
+    "wrong": [
+      26,
+      25,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 33 - 3",
+    "answer": 77,
+    "wrong": [
+      74,
+      76,
+      80
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 33 - 4",
+    "answer": 85,
+    "wrong": [
+      83,
+      92,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 22 - 12",
+    "answer": 52,
+    "wrong": [
+      55,
+      53,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 16 - 14",
+    "answer": 43,
+    "wrong": [
+      50,
+      45,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 11 - 8",
+    "answer": 19,
+    "wrong": [
+      15,
+      20,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 : 7",
+    "answer": 7,
+    "wrong": [
+      8,
+      12,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 33 - 7",
+    "answer": 57,
+    "wrong": [
+      50,
+      63,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 19",
+    "answer": 67,
+    "wrong": [
+      64,
+      63,
+      70
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 18",
+    "answer": 63,
+    "wrong": [
+      68,
+      66,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 10",
+    "answer": 28,
+    "wrong": [
+      25,
+      33,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 32 - 18",
+    "answer": 36,
+    "wrong": [
+      42,
+      34,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 7 - 11",
+    "answer": 50,
+    "wrong": [
+      51,
+      48,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 19",
+    "answer": 39,
+    "wrong": [
+      36,
+      44,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 19 - 19",
+    "answer": 45,
+    "wrong": [
+      49,
+      50,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 27 - 18",
+    "answer": 54,
+    "wrong": [
+      53,
+      56,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 7 - 21",
+    "answer": 44,
+    "wrong": [
+      41,
+      47,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 8",
+    "answer": 20,
+    "wrong": [
+      24,
+      19,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 22 - 7",
+    "answer": 39,
+    "wrong": [
+      42,
+      40,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 32 - 20",
+    "answer": 50,
+    "wrong": [
+      45,
+      51,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 17 - 8",
+    "answer": 64,
+    "wrong": [
+      70,
+      68,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 13",
+    "answer": 17,
+    "wrong": [
+      16,
+      15,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 9",
+    "answer": 54,
+    "wrong": [
+      57,
+      50,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 22",
+    "answer": 77,
+    "wrong": [
+      75,
+      70,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 24",
+    "answer": 52,
+    "wrong": [
+      54,
+      51,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 25 - 10",
+    "answer": 46,
+    "wrong": [
+      52,
+      42,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 34 - 6",
+    "answer": 58,
+    "wrong": [
+      56,
+      55,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 14 - 13",
+    "answer": 59,
+    "wrong": [
+      53,
+      66,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 9 - 20",
+    "answer": 14,
+    "wrong": [
+      9,
+      12,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 13 - 4",
+    "answer": 50,
+    "wrong": [
+      46,
+      44,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 4 + 9",
+    "answer": 29,
+    "wrong": [
+      26,
+      34,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 6",
+    "answer": 24,
+    "wrong": [
+      20,
+      21,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 5 - 2",
+    "answer": 49,
+    "wrong": [
+      42,
+      44,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 5 - 15",
+    "answer": 37,
+    "wrong": [
+      41,
+      42,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 21",
+    "answer": 66,
+    "wrong": [
+      71,
+      59,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 3 + 5",
+    "answer": 32,
+    "wrong": [
+      33,
+      39,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 30 - 16",
+    "answer": 42,
+    "wrong": [
+      46,
+      45,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 14",
+    "answer": 80,
+    "wrong": [
+      84,
+      85,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 15 - 11",
+    "answer": 34,
+    "wrong": [
+      32,
+      27,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 20 - 13",
+    "answer": 60,
+    "wrong": [
+      57,
+      61,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3 + 17",
+    "answer": 23,
+    "wrong": [
+      22,
+      24,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 11 - 17",
+    "answer": 37,
+    "wrong": [
+      41,
+      33,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 16",
+    "answer": 32,
+    "wrong": [
+      39,
+      30,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 8",
+    "answer": 44,
+    "wrong": [
+      40,
+      45,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 18 - 5",
+    "answer": 46,
+    "wrong": [
+      52,
+      42,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2",
+    "answer": 10,
+    "wrong": [
+      12,
+      6,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 9 - 20",
+    "answer": 10,
+    "wrong": [
+      12,
+      17,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 15 - 13",
+    "answer": 54,
+    "wrong": [
+      48,
+      56,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 21 - 14",
+    "answer": 26,
+    "wrong": [
+      24,
+      20,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 20",
+    "answer": 26,
+    "wrong": [
+      32,
+      28,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 13",
+    "answer": 48,
+    "wrong": [
+      43,
+      52,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 29 - 10",
+    "answer": 35,
+    "wrong": [
+      39,
+      31,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 9",
+    "answer": 45,
+    "wrong": [
+      52,
+      38,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6",
+    "answer": 12,
+    "wrong": [
+      7,
+      14,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 15 - 6",
+    "answer": 65,
+    "wrong": [
+      69,
+      66,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 13",
+    "answer": 28,
+    "wrong": [
+      32,
+      26,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 15 - 6",
+    "answer": 27,
+    "wrong": [
+      30,
+      32,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 20",
+    "answer": 45,
+    "wrong": [
+      39,
+      42,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 10",
+    "answer": 22,
+    "wrong": [
+      17,
+      18,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 22",
+    "answer": 66,
+    "wrong": [
+      64,
+      60,
+      70
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 13",
+    "answer": 57,
+    "wrong": [
+      59,
+      51,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 16",
+    "answer": 66,
+    "wrong": [
+      67,
+      65,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 13 - 10",
+    "answer": 20,
+    "wrong": [
+      14,
+      18,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 15 - 11",
+    "answer": 24,
+    "wrong": [
+      30,
+      31,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 34 - 15",
+    "answer": 77,
+    "wrong": [
+      76,
+      73,
+      83
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 22",
+    "answer": 47,
+    "wrong": [
+      44,
+      46,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 5 - 11",
+    "answer": 43,
+    "wrong": [
+      37,
+      44,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 17 - 14",
+    "answer": 53,
+    "wrong": [
+      58,
+      47,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 24",
+    "answer": 90,
+    "wrong": [
+      93,
+      89,
+      88
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4",
+    "answer": 28,
+    "wrong": [
+      32,
+      25,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 5",
+    "answer": 29,
+    "wrong": [
+      27,
+      31,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 12 - 19",
+    "answer": 11,
+    "wrong": [
+      9,
+      16,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 18",
+    "answer": 36,
+    "wrong": [
+      39,
+      38,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 12 - 19",
+    "answer": 31,
+    "wrong": [
+      37,
+      36,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 19",
+    "answer": 85,
+    "wrong": [
+      87,
+      90,
+      84
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 13 - 15",
+    "answer": 25,
+    "wrong": [
+      24,
+      32,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 23",
+    "answer": 58,
+    "wrong": [
+      63,
+      54,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 11 - 11",
+    "answer": 38,
+    "wrong": [
+      34,
+      42,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 21 - 9",
+    "answer": 34,
+    "wrong": [
+      39,
+      28,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 32 - 3",
+    "answer": 49,
+    "wrong": [
+      46,
+      50,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 22 - 15",
+    "answer": 66,
+    "wrong": [
+      71,
+      64,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 + 22 - 12",
+    "answer": 20,
+    "wrong": [
+      24,
+      22,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 10",
+    "answer": 25,
+    "wrong": [
+      18,
+      21,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 33 - 4",
+    "answer": 69,
+    "wrong": [
+      65,
+      75,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 28 - 6",
+    "answer": 42,
+    "wrong": [
+      48,
+      38,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 31 - 10",
+    "answer": 56,
+    "wrong": [
+      54,
+      55,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 19 - 4",
+    "answer": 50,
+    "wrong": [
+      48,
+      56,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 6",
+    "answer": 14,
+    "wrong": [
+      18,
+      17,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 26 - 11",
+    "answer": 31,
+    "wrong": [
+      25,
+      26,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 21 - 13",
+    "answer": 43,
+    "wrong": [
+      49,
+      37,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 18 - 21",
+    "answer": 18,
+    "wrong": [
+      14,
+      13,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 21 - 4",
+    "answer": 43,
+    "wrong": [
+      41,
+      37,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 12",
+    "answer": 20,
+    "wrong": [
+      15,
+      13,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 7",
+    "answer": 13,
+    "wrong": [
+      12,
+      6,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 6",
+    "answer": 24,
+    "wrong": [
+      22,
+      30,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 9",
+    "answer": 21,
+    "wrong": [
+      15,
+      24,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 28 - 12",
+    "answer": 72,
+    "wrong": [
+      79,
+      76,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 16",
+    "answer": 41,
+    "wrong": [
+      42,
+      34,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 : 9",
+    "answer": 2,
+    "wrong": [
+      3,
+      7,
+      1
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 27 - 11",
+    "answer": 62,
+    "wrong": [
+      58,
+      65,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 21 - 10",
+    "answer": 60,
+    "wrong": [
+      54,
+      58,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 + 5 - 17",
+    "answer": 24,
+    "wrong": [
+      25,
+      29,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 16 - 6",
+    "answer": 29,
+    "wrong": [
+      31,
+      28,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 27 - 18",
+    "answer": 21,
+    "wrong": [
+      22,
+      28,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 32 - 12",
+    "answer": 63,
+    "wrong": [
+      67,
+      64,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 19",
+    "answer": 51,
+    "wrong": [
+      50,
+      45,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 7",
+    "answer": 19,
+    "wrong": [
+      24,
+      15,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 13",
+    "answer": 21,
+    "wrong": [
+      26,
+      17,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 20 - 11",
+    "answer": 67,
+    "wrong": [
+      62,
+      73,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "34 + 22 - 7",
+    "answer": 49,
+    "wrong": [
+      48,
+      50,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 10",
+    "answer": 38,
+    "wrong": [
+      39,
+      31,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 20",
+    "answer": 60,
+    "wrong": [
+      57,
+      61,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 9 - 14",
+    "answer": 52,
+    "wrong": [
+      59,
+      56,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 10",
+    "answer": 24,
+    "wrong": [
+      19,
+      20,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 12",
+    "answer": 24,
+    "wrong": [
+      23,
+      26,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 13 - 17",
+    "answer": 51,
+    "wrong": [
+      49,
+      53,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 22 - 10",
+    "answer": 27,
+    "wrong": [
+      32,
+      28,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 32 - 11",
+    "answer": 45,
+    "wrong": [
+      46,
+      43,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 11 - 15",
+    "answer": 27,
+    "wrong": [
+      33,
+      32,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 2 + 19",
+    "answer": 39,
+    "wrong": [
+      43,
+      35,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 14",
+    "answer": 38,
+    "wrong": [
+      39,
+      31,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 2 + 5",
+    "answer": 25,
+    "wrong": [
+      22,
+      23,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 9 - 16",
+    "answer": 24,
+    "wrong": [
+      22,
+      18,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 12",
+    "answer": 24,
+    "wrong": [
+      18,
+      28,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 24",
+    "answer": 38,
+    "wrong": [
+      35,
+      31,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 12",
+    "answer": 26,
+    "wrong": [
+      19,
+      21,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 18",
+    "answer": 33,
+    "wrong": [
+      28,
+      26,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 17",
+    "answer": 53,
+    "wrong": [
+      51,
+      55,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 25 - 11",
+    "answer": 69,
+    "wrong": [
+      65,
+      76,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 32 - 12",
+    "answer": 78,
+    "wrong": [
+      75,
+      83,
+      77
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 24",
+    "answer": 54,
+    "wrong": [
+      59,
+      52,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 12 - 11",
+    "answer": 45,
+    "wrong": [
+      41,
+      42,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 21",
+    "answer": 31,
+    "wrong": [
+      25,
+      38,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 28 - 4",
+    "answer": 35,
+    "wrong": [
+      30,
+      40,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 33 - 18",
+    "answer": 69,
+    "wrong": [
+      63,
+      70,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 29 - 2",
+    "answer": 70,
+    "wrong": [
+      64,
+      76,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 8",
+    "answer": 44,
+    "wrong": [
+      49,
+      46,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 14 - 10",
+    "answer": 45,
+    "wrong": [
+      41,
+      48,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 13 - 18",
+    "answer": 34,
+    "wrong": [
+      33,
+      36,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6",
+    "answer": 48,
+    "wrong": [
+      51,
+      45,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 6 + 15",
+    "answer": 75,
+    "wrong": [
+      82,
+      70,
+      73
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 16 - 3",
+    "answer": 32,
+    "wrong": [
+      38,
+      28,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 16 - 10",
+    "answer": 60,
+    "wrong": [
+      61,
+      64,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 27 - 2",
+    "answer": 48,
+    "wrong": [
+      51,
+      42,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 10 - 10",
+    "answer": 57,
+    "wrong": [
+      53,
+      60,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 12",
+    "answer": 56,
+    "wrong": [
+      59,
+      63,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 22 - 9",
+    "answer": 36,
+    "wrong": [
+      40,
+      34,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 29 - 9",
+    "answer": 41,
+    "wrong": [
+      35,
+      39,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 21 - 15",
+    "answer": 24,
+    "wrong": [
+      27,
+      23,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 19",
+    "answer": 64,
+    "wrong": [
+      68,
+      67,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 24",
+    "answer": 39,
+    "wrong": [
+      41,
+      44,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 8",
+    "answer": 18,
+    "wrong": [
+      21,
+      24,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 17",
+    "answer": 52,
+    "wrong": [
+      47,
+      50,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 24 - 13",
+    "answer": 23,
+    "wrong": [
+      24,
+      29,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 11 - 21",
+    "answer": 6,
+    "wrong": [
+      4,
+      9,
+      3
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 28 - 6",
+    "answer": 55,
+    "wrong": [
+      51,
+      53,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "45 + 14 - 10",
+    "answer": 49,
+    "wrong": [
+      47,
+      48,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 15",
+    "answer": 33,
+    "wrong": [
+      39,
+      28,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 12",
+    "answer": 24,
+    "wrong": [
+      20,
+      21,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 8 - 16",
+    "answer": 21,
+    "wrong": [
+      20,
+      15,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 21 - 15",
+    "answer": 53,
+    "wrong": [
+      58,
+      48,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 14",
+    "answer": 26,
+    "wrong": [
+      28,
+      33,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 17 - 5",
+    "answer": 67,
+    "wrong": [
+      64,
+      74,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 18",
+    "answer": 48,
+    "wrong": [
+      51,
+      52,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 8 - 6",
+    "answer": 23,
+    "wrong": [
+      29,
+      22,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 28 - 18",
+    "answer": 52,
+    "wrong": [
+      45,
+      50,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 27 - 5",
+    "answer": 36,
+    "wrong": [
+      33,
+      30,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 30 - 6",
+    "answer": 75,
+    "wrong": [
+      72,
+      73,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 15 - 2",
+    "answer": 62,
+    "wrong": [
+      65,
+      68,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 6 - 21",
+    "answer": 43,
+    "wrong": [
+      49,
+      45,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 12 - 17",
+    "answer": 18,
+    "wrong": [
+      11,
+      19,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 18 - 9",
+    "answer": 68,
+    "wrong": [
+      63,
+      74,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 22",
+    "answer": 34,
+    "wrong": [
+      31,
+      41,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 11",
+    "answer": 47,
+    "wrong": [
+      44,
+      54,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 10",
+    "answer": 40,
+    "wrong": [
+      45,
+      42,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 27 - 13",
+    "answer": 58,
+    "wrong": [
+      52,
+      59,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3",
+    "answer": 6,
+    "wrong": [
+      13,
+      7,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 10 - 14",
+    "answer": 29,
+    "wrong": [
+      26,
+      23,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 14",
+    "answer": 54,
+    "wrong": [
+      61,
+      60,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 15",
+    "answer": 27,
+    "wrong": [
+      30,
+      24,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 10",
+    "answer": 19,
+    "wrong": [
+      14,
+      21,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 18",
+    "answer": 32,
+    "wrong": [
+      37,
+      36,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 15 - 14",
+    "answer": 19,
+    "wrong": [
+      18,
+      15,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 11 - 4",
+    "answer": 38,
+    "wrong": [
+      39,
+      36,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6 + 14",
+    "answer": 44,
+    "wrong": [
+      40,
+      37,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 9",
+    "answer": 17,
+    "wrong": [
+      13,
+      10,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2",
+    "answer": 16,
+    "wrong": [
+      19,
+      12,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 9 - 14",
+    "answer": 46,
+    "wrong": [
+      53,
+      42,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 17 - 20",
+    "answer": 9,
+    "wrong": [
+      7,
+      8,
+      2
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 18",
+    "answer": 28,
+    "wrong": [
+      21,
+      22,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 6 - 7",
+    "answer": 32,
+    "wrong": [
+      38,
+      33,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 22 - 6",
+    "answer": 39,
+    "wrong": [
+      43,
+      36,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 15 - 5",
+    "answer": 56,
+    "wrong": [
+      50,
+      58,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 32 - 15",
+    "answer": 37,
+    "wrong": [
+      34,
+      44,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 23 - 16",
+    "answer": 24,
+    "wrong": [
+      25,
+      17,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 21",
+    "answer": 33,
+    "wrong": [
+      38,
+      26,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 10",
+    "answer": 46,
+    "wrong": [
+      51,
+      44,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 31 - 21",
+    "answer": 21,
+    "wrong": [
+      27,
+      14,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 5 - 15",
+    "answer": 23,
+    "wrong": [
+      24,
+      28,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3",
+    "answer": 21,
+    "wrong": [
+      22,
+      20,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 15 - 4",
+    "answer": 66,
+    "wrong": [
+      67,
+      68,
+      73
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 12",
+    "answer": 45,
+    "wrong": [
+      47,
+      49,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 10 - 13",
+    "answer": 44,
+    "wrong": [
+      39,
+      51,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 24",
+    "answer": 42,
+    "wrong": [
+      40,
+      36,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 15",
+    "answer": 31,
+    "wrong": [
+      32,
+      35,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 9 - 20",
+    "answer": 40,
+    "wrong": [
+      46,
+      38,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 13 - 9",
+    "answer": 42,
+    "wrong": [
+      39,
+      35,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 19",
+    "answer": 59,
+    "wrong": [
+      55,
+      54,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 14",
+    "answer": 26,
+    "wrong": [
+      25,
+      23,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 3 + 22",
+    "answer": 49,
+    "wrong": [
+      42,
+      44,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 31 - 14",
+    "answer": 38,
+    "wrong": [
+      45,
+      44,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 9",
+    "answer": 24,
+    "wrong": [
+      26,
+      30,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 12",
+    "answer": 27,
+    "wrong": [
+      34,
+      20,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 16 - 5",
+    "answer": 60,
+    "wrong": [
+      66,
+      55,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 11 - 8",
+    "answer": 22,
+    "wrong": [
+      19,
+      25,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 21 - 17",
+    "answer": 33,
+    "wrong": [
+      39,
+      38,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 16 - 10",
+    "answer": 52,
+    "wrong": [
+      47,
+      45,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 6",
+    "answer": 36,
+    "wrong": [
+      29,
+      38,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 34 - 6",
+    "answer": 79,
+    "wrong": [
+      86,
+      82,
+      76
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 26 - 9",
+    "answer": 58,
+    "wrong": [
+      65,
+      52,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 22",
+    "answer": 72,
+    "wrong": [
+      71,
+      67,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 5",
+    "answer": 20,
+    "wrong": [
+      18,
+      22,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 29 - 10",
+    "answer": 59,
+    "wrong": [
+      60,
+      56,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 12 - 4",
+    "answer": 24,
+    "wrong": [
+      31,
+      19,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6 + 5",
+    "answer": 35,
+    "wrong": [
+      28,
+      32,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 22 - 2",
+    "answer": 33,
+    "wrong": [
+      27,
+      30,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 11",
+    "answer": 43,
+    "wrong": [
+      40,
+      37,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 19 - 11",
+    "answer": 52,
+    "wrong": [
+      55,
+      54,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 10",
+    "answer": 35,
+    "wrong": [
+      40,
+      42,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "36 + 22 - 12",
+    "answer": 46,
+    "wrong": [
+      45,
+      39,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 12 - 13",
+    "answer": 18,
+    "wrong": [
+      13,
+      16,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 14",
+    "answer": 34,
+    "wrong": [
+      33,
+      39,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 10",
+    "answer": 14,
+    "wrong": [
+      19,
+      15,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 28 - 9",
+    "answer": 70,
+    "wrong": [
+      75,
+      77,
+      69
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 23",
+    "answer": 67,
+    "wrong": [
+      70,
+      68,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 2 + 14",
+    "answer": 34,
+    "wrong": [
+      36,
+      35,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 5",
+    "answer": 21,
+    "wrong": [
+      16,
+      26,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 19 - 5",
+    "answer": 52,
+    "wrong": [
+      58,
+      51,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 20",
+    "answer": 74,
+    "wrong": [
+      69,
+      70,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 17",
+    "answer": 25,
+    "wrong": [
+      23,
+      31,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5",
+    "answer": 15,
+    "wrong": [
+      18,
+      17,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 8 - 8",
+    "answer": 51,
+    "wrong": [
+      53,
+      45,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 25 - 9",
+    "answer": 32,
+    "wrong": [
+      34,
+      30,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 18",
+    "answer": 73,
+    "wrong": [
+      68,
+      78,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 7 - 8",
+    "answer": 32,
+    "wrong": [
+      31,
+      29,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 10 - 9",
+    "answer": 52,
+    "wrong": [
+      54,
+      55,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 24 - 13",
+    "answer": 35,
+    "wrong": [
+      37,
+      40,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 20",
+    "answer": 48,
+    "wrong": [
+      41,
+      54,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 20 - 14",
+    "answer": 19,
+    "wrong": [
+      18,
+      26,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 31 - 10",
+    "answer": 51,
+    "wrong": [
+      54,
+      47,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 34 - 4",
+    "answer": 54,
+    "wrong": [
+      58,
+      60,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 16",
+    "answer": 25,
+    "wrong": [
+      18,
+      24,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 20",
+    "answer": 24,
+    "wrong": [
+      28,
+      30,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 21 - 3",
+    "answer": 37,
+    "wrong": [
+      38,
+      44,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 31 - 2",
+    "answer": 85,
+    "wrong": [
+      79,
+      78,
+      90
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 23 - 6",
+    "answer": 73,
+    "wrong": [
+      69,
+      74,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 9 - 18",
+    "answer": 24,
+    "wrong": [
+      20,
+      29,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 23",
+    "answer": 41,
+    "wrong": [
+      43,
+      34,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 12",
+    "answer": 36,
+    "wrong": [
+      29,
+      37,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 23 - 6",
+    "answer": 56,
+    "wrong": [
+      60,
+      59,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 16",
+    "answer": 51,
+    "wrong": [
+      58,
+      55,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 15 - 9",
+    "answer": 65,
+    "wrong": [
+      58,
+      67,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 12",
+    "answer": 52,
+    "wrong": [
+      59,
+      50,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 2 + 18",
+    "answer": 40,
+    "wrong": [
+      46,
+      37,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 23",
+    "answer": 41,
+    "wrong": [
+      44,
+      35,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 17 - 19",
+    "answer": 9,
+    "wrong": [
+      14,
+      2,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 18 - 4",
+    "answer": 67,
+    "wrong": [
+      71,
+      64,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 9 - 5",
+    "answer": 15,
+    "wrong": [
+      9,
+      18,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 22",
+    "answer": 50,
+    "wrong": [
+      52,
+      46,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 20 - 21",
+    "answer": 25,
+    "wrong": [
+      19,
+      31,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 20",
+    "answer": 41,
+    "wrong": [
+      42,
+      39,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 18",
+    "answer": 30,
+    "wrong": [
+      37,
+      34,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 28 - 6",
+    "answer": 34,
+    "wrong": [
+      36,
+      38,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 26 - 18",
+    "answer": 28,
+    "wrong": [
+      26,
+      24,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 5",
+    "answer": 23,
+    "wrong": [
+      29,
+      18,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 30 - 10",
+    "answer": 72,
+    "wrong": [
+      65,
+      74,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 11",
+    "answer": 17,
+    "wrong": [
+      24,
+      22,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 13",
+    "answer": 49,
+    "wrong": [
+      52,
+      56,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 9 - 2",
+    "answer": 35,
+    "wrong": [
+      41,
+      40,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 19",
+    "answer": 31,
+    "wrong": [
+      29,
+      27,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 14",
+    "answer": 68,
+    "wrong": [
+      75,
+      66,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 15",
+    "answer": 31,
+    "wrong": [
+      36,
+      30,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 8 - 15",
+    "answer": 45,
+    "wrong": [
+      44,
+      39,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 6",
+    "answer": 14,
+    "wrong": [
+      11,
+      10,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 22",
+    "answer": 76,
+    "wrong": [
+      69,
+      79,
+      81
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 14 - 2",
+    "answer": 58,
+    "wrong": [
+      55,
+      53,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 19",
+    "answer": 59,
+    "wrong": [
+      61,
+      54,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 25 - 19",
+    "answer": 29,
+    "wrong": [
+      28,
+      36,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 9 - 18",
+    "answer": 43,
+    "wrong": [
+      44,
+      48,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 10 - 9",
+    "answer": 29,
+    "wrong": [
+      34,
+      36,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 20 - 13",
+    "answer": 35,
+    "wrong": [
+      33,
+      37,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 20 - 10",
+    "answer": 49,
+    "wrong": [
+      53,
+      43,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 23 - 15",
+    "answer": 49,
+    "wrong": [
+      44,
+      48,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 8 - 12",
+    "answer": 12,
+    "wrong": [
+      17,
+      5,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 21",
+    "answer": 33,
+    "wrong": [
+      36,
+      27,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 12 - 7",
+    "answer": 20,
+    "wrong": [
+      25,
+      15,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 26 - 10",
+    "answer": 66,
+    "wrong": [
+      64,
+      69,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 5",
+    "answer": 17,
+    "wrong": [
+      21,
+      10,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 24 - 12",
+    "answer": 39,
+    "wrong": [
+      46,
+      44,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 7",
+    "answer": 51,
+    "wrong": [
+      57,
+      56,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 30 - 19",
+    "answer": 49,
+    "wrong": [
+      56,
+      53,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 29 - 15",
+    "answer": 61,
+    "wrong": [
+      55,
+      65,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 5 - 18",
+    "answer": 45,
+    "wrong": [
+      49,
+      38,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 19",
+    "answer": 34,
+    "wrong": [
+      39,
+      41,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 5 - 13",
+    "answer": 32,
+    "wrong": [
+      27,
+      26,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 7",
+    "answer": 55,
+    "wrong": [
+      52,
+      62,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 12",
+    "answer": 27,
+    "wrong": [
+      25,
+      28,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 18",
+    "answer": 42,
+    "wrong": [
+      49,
+      41,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 19",
+    "answer": 29,
+    "wrong": [
+      36,
+      34,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 27 - 16",
+    "answer": 50,
+    "wrong": [
+      48,
+      43,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 2 + 17",
+    "answer": 39,
+    "wrong": [
+      32,
+      36,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 24",
+    "answer": 69,
+    "wrong": [
+      75,
+      66,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 11",
+    "answer": 29,
+    "wrong": [
+      33,
+      26,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 21 - 20",
+    "answer": 29,
+    "wrong": [
+      23,
+      33,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 8 - 2",
+    "answer": 47,
+    "wrong": [
+      52,
+      51,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 22",
+    "answer": 54,
+    "wrong": [
+      59,
+      56,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 12 - 18",
+    "answer": 6,
+    "wrong": [
+      4,
+      10,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 9 - 12",
+    "answer": 56,
+    "wrong": [
+      51,
+      54,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 9 - 13",
+    "answer": 18,
+    "wrong": [
+      16,
+      24,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 5 - 16",
+    "answer": 5,
+    "wrong": [
+      7,
+      4,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 10 - 12",
+    "answer": 40,
+    "wrong": [
+      33,
+      47,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 5",
+    "answer": 50,
+    "wrong": [
+      46,
+      53,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 17",
+    "answer": 47,
+    "wrong": [
+      42,
+      52,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 10 - 21",
+    "answer": 26,
+    "wrong": [
+      30,
+      29,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 30 - 4",
+    "answer": 83,
+    "wrong": [
+      76,
+      78,
+      90
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 18 - 18",
+    "answer": 21,
+    "wrong": [
+      24,
+      20,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 12",
+    "answer": 42,
+    "wrong": [
+      41,
+      38,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 24 - 21",
+    "answer": 55,
+    "wrong": [
+      52,
+      58,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 30 - 16",
+    "answer": 53,
+    "wrong": [
+      60,
+      54,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 6 - 20",
+    "answer": 17,
+    "wrong": [
+      23,
+      13,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 14 - 4",
+    "answer": 35,
+    "wrong": [
+      42,
+      33,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 : 9",
+    "answer": 3,
+    "wrong": [
+      5,
+      6,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 6 + 20",
+    "answer": 50,
+    "wrong": [
+      53,
+      45,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 30 - 10",
+    "answer": 66,
+    "wrong": [
+      73,
+      69,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 11 - 12",
+    "answer": 25,
+    "wrong": [
+      18,
+      27,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "59 + 7 - 7",
+    "answer": 59,
+    "wrong": [
+      60,
+      61,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 8 - 13",
+    "answer": 19,
+    "wrong": [
+      26,
+      20,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 15",
+    "answer": 81,
+    "wrong": [
+      84,
+      76,
+      86
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 21 - 10",
+    "answer": 24,
+    "wrong": [
+      26,
+      30,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 23 - 2",
+    "answer": 68,
+    "wrong": [
+      61,
+      73,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 6 - 17",
+    "answer": 8,
+    "wrong": [
+      5,
+      3,
+      6
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 5 - 7",
+    "answer": 35,
+    "wrong": [
+      37,
+      31,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3 + 5",
+    "answer": 11,
+    "wrong": [
+      5,
+      17,
+      7
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 31 - 3",
+    "answer": 78,
+    "wrong": [
+      72,
+      74,
+      84
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 23 - 5",
+    "answer": 40,
+    "wrong": [
+      36,
+      35,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 6 + 6",
+    "answer": 60,
+    "wrong": [
+      61,
+      54,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 3 + 14",
+    "answer": 35,
+    "wrong": [
+      34,
+      39,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 9",
+    "answer": 49,
+    "wrong": [
+      43,
+      48,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 28 - 5",
+    "answer": 72,
+    "wrong": [
+      78,
+      65,
+      75
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 21 - 3",
+    "answer": 71,
+    "wrong": [
+      73,
+      66,
+      77
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 27 - 11",
+    "answer": 49,
+    "wrong": [
+      42,
+      50,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 4 + 22",
+    "answer": 46,
+    "wrong": [
+      45,
+      43,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 33 - 16",
+    "answer": 40,
+    "wrong": [
+      38,
+      47,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 28 - 9",
+    "answer": 48,
+    "wrong": [
+      42,
+      55,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 17",
+    "answer": 83,
+    "wrong": [
+      90,
+      89,
+      85
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 8",
+    "answer": 16,
+    "wrong": [
+      19,
+      21,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 6",
+    "answer": 36,
+    "wrong": [
+      41,
+      29,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 31 - 10",
+    "answer": 62,
+    "wrong": [
+      66,
+      56,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 12 - 20",
+    "answer": 34,
+    "wrong": [
+      41,
+      40,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 24",
+    "answer": 57,
+    "wrong": [
+      51,
+      60,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 11 - 19",
+    "answer": 22,
+    "wrong": [
+      19,
+      17,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 21",
+    "answer": 87,
+    "wrong": [
+      92,
+      84,
+      83
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 22",
+    "answer": 38,
+    "wrong": [
+      33,
+      34,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 5",
+    "answer": 53,
+    "wrong": [
+      55,
+      51,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 19 - 12",
+    "answer": 51,
+    "wrong": [
+      58,
+      50,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 5 + 24",
+    "answer": 79,
+    "wrong": [
+      76,
+      80,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 22",
+    "answer": 52,
+    "wrong": [
+      57,
+      53,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 15 - 9",
+    "answer": 41,
+    "wrong": [
+      45,
+      48,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 2 + 19",
+    "answer": 37,
+    "wrong": [
+      44,
+      41,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 32 - 17",
+    "answer": 27,
+    "wrong": [
+      31,
+      29,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 23",
+    "answer": 59,
+    "wrong": [
+      65,
+      66,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 11 - 9",
+    "answer": 27,
+    "wrong": [
+      33,
+      32,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 21",
+    "answer": 69,
+    "wrong": [
+      66,
+      74,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 12 - 19",
+    "answer": 51,
+    "wrong": [
+      57,
+      53,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 19 - 4",
+    "answer": 43,
+    "wrong": [
+      39,
+      41,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "29 + 15 - 21",
+    "answer": 23,
+    "wrong": [
+      18,
+      29,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 12 - 5",
+    "answer": 18,
+    "wrong": [
+      15,
+      13,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 11 - 2",
+    "answer": 28,
+    "wrong": [
+      21,
+      31,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 7",
+    "answer": 47,
+    "wrong": [
+      41,
+      54,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "51 + 18 - 17",
+    "answer": 52,
+    "wrong": [
+      50,
+      58,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "55 + 27 - 4",
+    "answer": 78,
+    "wrong": [
+      73,
+      77,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 18 - 7",
+    "answer": 44,
+    "wrong": [
+      51,
+      46,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 5",
+    "answer": 41,
+    "wrong": [
+      44,
+      42,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 6 + 12",
+    "answer": 30,
+    "wrong": [
+      37,
+      28,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 14",
+    "answer": 39,
+    "wrong": [
+      43,
+      35,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 13 - 16",
+    "answer": 35,
+    "wrong": [
+      36,
+      32,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 4 + 22",
+    "answer": 42,
+    "wrong": [
+      37,
+      39,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 21",
+    "answer": 57,
+    "wrong": [
+      63,
+      51,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 22 - 15",
+    "answer": 49,
+    "wrong": [
+      52,
+      47,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 23",
+    "answer": 39,
+    "wrong": [
+      41,
+      40,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 13",
+    "answer": 31,
+    "wrong": [
+      28,
+      30,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 2 + 10",
+    "answer": 16,
+    "wrong": [
+      14,
+      13,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 19",
+    "answer": 55,
+    "wrong": [
+      59,
+      56,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 7 - 16",
+    "answer": 38,
+    "wrong": [
+      44,
+      39,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 30 - 20",
+    "answer": 25,
+    "wrong": [
+      21,
+      26,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 19 - 12",
+    "answer": 22,
+    "wrong": [
+      19,
+      23,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 24 - 20",
+    "answer": 32,
+    "wrong": [
+      29,
+      37,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 31 - 6",
+    "answer": 64,
+    "wrong": [
+      67,
+      57,
+      65
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 6 - 17",
+    "answer": 11,
+    "wrong": [
+      15,
+      5,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 20",
+    "answer": 55,
+    "wrong": [
+      62,
+      51,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 3 + 15",
+    "answer": 30,
+    "wrong": [
+      27,
+      29,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 5 - 16",
+    "answer": 13,
+    "wrong": [
+      19,
+      11,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 22 - 20",
+    "answer": 14,
+    "wrong": [
+      15,
+      17,
+      16
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 9",
+    "answer": 33,
+    "wrong": [
+      34,
+      35,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 17",
+    "answer": 49,
+    "wrong": [
+      54,
+      47,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 6 - 19",
+    "answer": 2,
+    "wrong": [
+      1,
+      5,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 11",
+    "answer": 36,
+    "wrong": [
+      43,
+      40,
+      34
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 10 - 5",
+    "answer": 27,
+    "wrong": [
+      25,
+      34,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 7",
+    "answer": 17,
+    "wrong": [
+      24,
+      11,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 17 - 8",
+    "answer": 62,
+    "wrong": [
+      63,
+      60,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 7 - 14",
+    "answer": 12,
+    "wrong": [
+      16,
+      5,
+      10
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 11",
+    "answer": 35,
+    "wrong": [
+      31,
+      40,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 19 - 16",
+    "answer": 15,
+    "wrong": [
+      17,
+      19,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 7 - 17",
+    "answer": 25,
+    "wrong": [
+      18,
+      29,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 32 - 7",
+    "answer": 41,
+    "wrong": [
+      44,
+      36,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 27 - 11",
+    "answer": 47,
+    "wrong": [
+      45,
+      41,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 24 - 8",
+    "answer": 72,
+    "wrong": [
+      71,
+      75,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 3 + 7",
+    "answer": 37,
+    "wrong": [
+      31,
+      36,
+      39
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 6 - 8",
+    "answer": 33,
+    "wrong": [
+      30,
+      29,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 34 - 21",
+    "answer": 33,
+    "wrong": [
+      30,
+      26,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 23 - 14",
+    "answer": 53,
+    "wrong": [
+      58,
+      48,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 22 - 3",
+    "answer": 61,
+    "wrong": [
+      56,
+      66,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "23 + 27 - 3",
+    "answer": 47,
+    "wrong": [
+      50,
+      45,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 5 + 15",
+    "answer": 30,
+    "wrong": [
+      33,
+      26,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 26 - 9",
+    "answer": 59,
+    "wrong": [
+      57,
+      65,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 26 - 10",
+    "answer": 47,
+    "wrong": [
+      51,
+      43,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 28 - 16",
+    "answer": 52,
+    "wrong": [
+      49,
+      45,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 18 - 18",
+    "answer": 39,
+    "wrong": [
+      40,
+      37,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 21",
+    "answer": 30,
+    "wrong": [
+      28,
+      34,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 4 + 24",
+    "answer": 68,
+    "wrong": [
+      72,
+      75,
+      69
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "25 + 31 - 18",
+    "answer": 38,
+    "wrong": [
+      42,
+      31,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 9 - 16",
+    "answer": 11,
+    "wrong": [
+      5,
+      16,
+      15
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 29 - 14",
+    "answer": 30,
+    "wrong": [
+      26,
+      27,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 24 - 2",
+    "answer": 63,
+    "wrong": [
+      68,
+      57,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 15 - 16",
+    "answer": 49,
+    "wrong": [
+      51,
+      47,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 3 + 6",
+    "answer": 39,
+    "wrong": [
+      38,
+      35,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 21 - 11",
+    "answer": 22,
+    "wrong": [
+      28,
+      20,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 5 + 14",
+    "answer": 64,
+    "wrong": [
+      59,
+      67,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 6 + 6",
+    "answer": 18,
+    "wrong": [
+      25,
+      20,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 19 - 19",
+    "answer": 38,
+    "wrong": [
+      37,
+      42,
+      45
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "19 + 27 - 15",
+    "answer": 31,
+    "wrong": [
+      26,
+      33,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 30 - 7",
+    "answer": 38,
+    "wrong": [
+      40,
+      31,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 5",
+    "answer": 19,
+    "wrong": [
+      20,
+      25,
+      18
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 31 - 13",
+    "answer": 56,
+    "wrong": [
+      57,
+      55,
+      62
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 19 - 20",
+    "answer": 53,
+    "wrong": [
+      52,
+      55,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 6",
+    "answer": 34,
+    "wrong": [
+      32,
+      29,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 30 - 10",
+    "answer": 47,
+    "wrong": [
+      46,
+      40,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 23 - 7",
+    "answer": 62,
+    "wrong": [
+      55,
+      64,
+      68
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 4 + 21",
+    "answer": 49,
+    "wrong": [
+      55,
+      43,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 22 - 20",
+    "answer": 39,
+    "wrong": [
+      33,
+      32,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 20",
+    "answer": 68,
+    "wrong": [
+      63,
+      66,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "12 + 17 - 18",
+    "answer": 11,
+    "wrong": [
+      10,
+      13,
+      4
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 19 - 18",
+    "answer": 50,
+    "wrong": [
+      53,
+      43,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "50 + 26 - 6",
+    "answer": 70,
+    "wrong": [
+      73,
+      67,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 18 - 8",
+    "answer": 53,
+    "wrong": [
+      59,
+      54,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 13",
+    "answer": 79,
+    "wrong": [
+      75,
+      72,
+      82
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 20",
+    "answer": 60,
+    "wrong": [
+      53,
+      59,
+      67
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 33 - 4",
+    "answer": 78,
+    "wrong": [
+      79,
+      85,
+      72
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 12 - 21",
+    "answer": 6,
+    "wrong": [
+      13,
+      5,
+      11
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 4 + 14",
+    "answer": 50,
+    "wrong": [
+      51,
+      53,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 33 - 10",
+    "answer": 58,
+    "wrong": [
+      60,
+      52,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 12 - 17",
+    "answer": 23,
+    "wrong": [
+      21,
+      22,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 2 + 14",
+    "answer": 18,
+    "wrong": [
+      15,
+      21,
+      25
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "53 + 30 - 4",
+    "answer": 79,
+    "wrong": [
+      82,
+      77,
+      74
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "47 + 19 - 13",
+    "answer": 53,
+    "wrong": [
+      50,
+      55,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 2 + 24",
+    "answer": 40,
+    "wrong": [
+      39,
+      37,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 4 + 16",
+    "answer": 48,
+    "wrong": [
+      46,
+      49,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 9 - 7",
+    "answer": 18,
+    "wrong": [
+      17,
+      24,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 16 - 10",
+    "answer": 58,
+    "wrong": [
+      55,
+      59,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6 + 7",
+    "answer": 49,
+    "wrong": [
+      45,
+      55,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "43 + 21 - 14",
+    "answer": 50,
+    "wrong": [
+      52,
+      46,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 26 - 9",
+    "answer": 75,
+    "wrong": [
+      70,
+      72,
+      82
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 2 + 24",
+    "answer": 34,
+    "wrong": [
+      41,
+      31,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 32 - 20",
+    "answer": 27,
+    "wrong": [
+      21,
+      33,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 24",
+    "answer": 32,
+    "wrong": [
+      30,
+      25,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 17 - 15",
+    "answer": 35,
+    "wrong": [
+      29,
+      34,
+      38
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 6 - 4",
+    "answer": 54,
+    "wrong": [
+      49,
+      61,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 20 - 21",
+    "answer": 14,
+    "wrong": [
+      15,
+      7,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 6",
+    "answer": 54,
+    "wrong": [
+      53,
+      51,
+      59
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 18 - 14",
+    "answer": 56,
+    "wrong": [
+      58,
+      60,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "46 + 24 - 9",
+    "answer": 61,
+    "wrong": [
+      64,
+      62,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 15",
+    "answer": 45,
+    "wrong": [
+      43,
+      50,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 6 - 15",
+    "answer": 7,
+    "wrong": [
+      4,
+      3,
+      8
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 18",
+    "answer": 58,
+    "wrong": [
+      51,
+      56,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 6 + 17",
+    "answer": 53,
+    "wrong": [
+      51,
+      60,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 3 + 17",
+    "answer": 26,
+    "wrong": [
+      19,
+      23,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 31 - 21",
+    "answer": 62,
+    "wrong": [
+      57,
+      59,
+      66
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 3 + 7",
+    "answer": 31,
+    "wrong": [
+      29,
+      28,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 22",
+    "answer": 34,
+    "wrong": [
+      35,
+      41,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 14 - 3",
+    "answer": 25,
+    "wrong": [
+      19,
+      23,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 19",
+    "answer": 31,
+    "wrong": [
+      29,
+      34,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 24 - 5",
+    "answer": 37,
+    "wrong": [
+      30,
+      43,
+      42
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 23",
+    "answer": 37,
+    "wrong": [
+      33,
+      42,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 11",
+    "answer": 51,
+    "wrong": [
+      44,
+      46,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 15",
+    "answer": 60,
+    "wrong": [
+      65,
+      62,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "35 + 7 - 8",
+    "answer": 34,
+    "wrong": [
+      27,
+      33,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 21 - 17",
+    "answer": 18,
+    "wrong": [
+      17,
+      11,
+      21
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "52 + 31 - 5",
+    "answer": 78,
+    "wrong": [
+      82,
+      84,
+      85
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 4 + 12",
+    "answer": 20,
+    "wrong": [
+      16,
+      26,
+      23
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 13 - 21",
+    "answer": 8,
+    "wrong": [
+      10,
+      9,
+      14
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "31 + 28 - 2",
+    "answer": 57,
+    "wrong": [
+      51,
+      56,
+      55
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 14 - 17",
+    "answer": 53,
+    "wrong": [
+      59,
+      47,
+      46
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 13 - 8",
+    "answer": 33,
+    "wrong": [
+      39,
+      36,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 19 - 12",
+    "answer": 56,
+    "wrong": [
+      60,
+      59,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 2 + 24",
+    "answer": 32,
+    "wrong": [
+      25,
+      37,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "26 + 22 - 4",
+    "answer": 44,
+    "wrong": [
+      50,
+      46,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "34 + 26 - 14",
+    "answer": 46,
+    "wrong": [
+      40,
+      48,
+      47
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 34 - 4",
+    "answer": 45,
+    "wrong": [
+      38,
+      47,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "40 + 11 - 18",
+    "answer": 33,
+    "wrong": [
+      34,
+      40,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "16 + 33 - 14",
+    "answer": 35,
+    "wrong": [
+      40,
+      32,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 19 - 5",
+    "answer": 55,
+    "wrong": [
+      53,
+      50,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 4 + 10",
+    "answer": 26,
+    "wrong": [
+      22,
+      31,
+      19
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 3 + 5",
+    "answer": 23,
+    "wrong": [
+      26,
+      20,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 6 + 10",
+    "answer": 34,
+    "wrong": [
+      28,
+      29,
+      37
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "38 + 15 - 4",
+    "answer": 49,
+    "wrong": [
+      44,
+      50,
+      53
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 9 - 6",
+    "answer": 27,
+    "wrong": [
+      23,
+      33,
+      24
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "30 + 15 - 8",
+    "answer": 37,
+    "wrong": [
+      34,
+      30,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 25 - 15",
+    "answer": 51,
+    "wrong": [
+      45,
+      47,
+      57
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "3 x 4 + 24",
+    "answer": 36,
+    "wrong": [
+      41,
+      37,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "14 + 12 - 4",
+    "answer": 22,
+    "wrong": [
+      26,
+      15,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "54 + 6 - 7",
+    "answer": 53,
+    "wrong": [
+      54,
+      58,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 5 + 15",
+    "answer": 50,
+    "wrong": [
+      55,
+      46,
+      44
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 5 + 23",
+    "answer": 63,
+    "wrong": [
+      56,
+      68,
+      64
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "41 + 19 - 21",
+    "answer": 39,
+    "wrong": [
+      43,
+      41,
+      36
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 14",
+    "answer": 24,
+    "wrong": [
+      31,
+      18,
+      28
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "5 x 5 + 23",
+    "answer": 48,
+    "wrong": [
+      52,
+      55,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 27 - 19",
+    "answer": 41,
+    "wrong": [
+      36,
+      46,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "33 + 7 - 11",
+    "answer": 29,
+    "wrong": [
+      22,
+      23,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 5 + 22",
+    "answer": 42,
+    "wrong": [
+      37,
+      38,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "24 + 27 - 20",
+    "answer": 31,
+    "wrong": [
+      25,
+      36,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 3 + 20",
+    "answer": 26,
+    "wrong": [
+      23,
+      33,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 28 - 6",
+    "answer": 64,
+    "wrong": [
+      66,
+      62,
+      63
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "2 x 5 + 15",
+    "answer": 25,
+    "wrong": [
+      30,
+      23,
+      22
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "15 + 7 - 16",
+    "answer": 6,
+    "wrong": [
+      8,
+      1,
+      9
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 24",
+    "answer": 64,
+    "wrong": [
+      62,
+      66,
+      61
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "56 + 15 - 9",
+    "answer": 62,
+    "wrong": [
+      59,
+      65,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "17 + 15 - 11",
+    "answer": 21,
+    "wrong": [
+      28,
+      24,
+      17
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 2 + 11",
+    "answer": 25,
+    "wrong": [
+      23,
+      26,
+      20
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "32 + 10 - 2",
+    "answer": 40,
+    "wrong": [
+      46,
+      33,
+      43
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "18 + 33 - 17",
+    "answer": 34,
+    "wrong": [
+      32,
+      37,
+      33
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "7 x 6 + 10",
+    "answer": 52,
+    "wrong": [
+      59,
+      53,
+      48
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 + 25 - 21",
+    "answer": 15,
+    "wrong": [
+      14,
+      22,
+      13
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "21 + 20 - 9",
+    "answer": 32,
+    "wrong": [
+      30,
+      28,
+      26
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "9 x 5 + 13",
+    "answer": 58,
+    "wrong": [
+      59,
+      51,
+      60
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "57 + 15 - 20",
+    "answer": 52,
+    "wrong": [
+      54,
+      55,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "22 + 19 - 11",
+    "answer": 30,
+    "wrong": [
+      29,
+      32,
+      31
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 10",
+    "answer": 76,
+    "wrong": [
+      72,
+      78,
+      69
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "44 + 14 - 2",
+    "answer": 56,
+    "wrong": [
+      52,
+      55,
+      51
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "8 x 6 + 11",
+    "answer": 59,
+    "wrong": [
+      57,
+      62,
+      56
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "27 + 17 - 7",
+    "answer": 37,
+    "wrong": [
+      31,
+      36,
+      30
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 30 - 6",
+    "answer": 73,
+    "wrong": [
+      80,
+      76,
+      79
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "4 x 3 + 24",
+    "answer": 36,
+    "wrong": [
+      41,
+      39,
+      35
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "13 + 22 - 7",
+    "answer": 28,
+    "wrong": [
+      21,
+      25,
+      29
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 5 + 8",
+    "answer": 38,
+    "wrong": [
+      31,
+      37,
+      41
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 27 - 18",
+    "answer": 29,
+    "wrong": [
+      26,
+      22,
+      27
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "20 + 8 - 19",
+    "answer": 9,
+    "wrong": [
+      7,
+      3,
+      12
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "39 + 22 - 11",
+    "answer": 50,
+    "wrong": [
+      45,
+      48,
+      54
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "49 + 15 - 7",
+    "answer": 57,
+    "wrong": [
+      50,
+      64,
+      58
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "42 + 33 - 10",
+    "answer": 65,
+    "wrong": [
+      61,
+      60,
+      71
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 20 - 9",
+    "answer": 39,
+    "wrong": [
+      43,
+      44,
+      32
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "58 + 9 - 20",
+    "answer": 47,
+    "wrong": [
+      43,
+      44,
+      40
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "28 + 30 - 3",
+    "answer": 55,
+    "wrong": [
+      49,
+      50,
+      52
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "10 x 4 + 17",
+    "answer": 57,
+    "wrong": [
+      52,
+      62,
+      50
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "37 + 16 - 8",
+    "answer": 45,
+    "wrong": [
+      52,
+      38,
+      49
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "11 x 6 + 16",
+    "answer": 82,
+    "wrong": [
+      79,
+      88,
+      78
+    ],
+    "time_limit": 60
+  },
+  {
+    "question": "6 x 2 + 13",
+    "answer": 25,
+    "wrong": [
+      32,
+      20,
+      21
+    ],
+    "time_limit": 60
+  }
+]

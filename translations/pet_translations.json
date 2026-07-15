@@ -1,0 +1,212 @@
+{
+  "pet_axolotl": {
+    "price": 400,
+    "image_path": "assets/pets_svg/axolotl.svg",
+    "name": {
+      "vi": "Kỳ Giông",
+      "en": "Axolotl"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_bear": {
+    "price": 200,
+    "image_path": "assets/pets_svg/bear.svg",
+    "name": {
+      "vi": "Gấu Nhí",
+      "en": "Little Bear"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_bunny": {
+    "price": 200,
+    "image_path": "assets/pets_svg/bunny.svg",
+    "name": {
+      "vi": "Thỏ Bông",
+      "en": "Bunny"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_cat": {
+    "price": 200,
+    "image_path": "assets/pets_svg/cat.svg",
+    "name": {
+      "vi": "Mèo Con",
+      "en": "Kitten"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_chick": {
+    "price": 200,
+    "image_path": "assets/pets_svg/chick.svg",
+    "name": {
+      "vi": "Gà Con",
+      "en": "Chick"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_dog": {
+    "price": 200,
+    "image_path": "assets/pets_svg/dog.svg",
+    "name": {
+      "vi": "Cún Con",
+      "en": "Puppy"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_dragon": {
+    "price": 500,
+    "image_path": "assets/pets_svg/dragon.svg",
+    "name": {
+      "vi": "Rồng Nhỏ",
+      "en": "Baby Dragon"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_fox": {
+    "price": 200,
+    "image_path": "assets/pets_svg/fox.svg",
+    "name": {
+      "vi": "Cáo Đỏ",
+      "en": "Red Fox"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_frog": {
+    "price": 200,
+    "image_path": "assets/pets_svg/frog.svg",
+    "name": {
+      "vi": "Ếch Xanh",
+      "en": "Froggy"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_ghost": {
+    "price": 300,
+    "image_path": "assets/pets_svg/ghost.svg",
+    "name": {
+      "vi": "Ma Trắng",
+      "en": "Little Ghost"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_hamster": {
+    "price": 200,
+    "image_path": "assets/pets_svg/hamster.svg",
+    "name": {
+      "vi": "Chuột Hamster",
+      "en": "Hamster"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_koala": {
+    "price": 250,
+    "image_path": "assets/pets_svg/koala.svg",
+    "name": {
+      "vi": "Gấu Koala",
+      "en": "Koala"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_monkey": {
+    "price": 200,
+    "image_path": "assets/pets_svg/monkey.svg",
+    "name": {
+      "vi": "Khỉ Đột",
+      "en": "Monkey"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_owl": {
+    "price": 250,
+    "image_path": "assets/pets_svg/owl.svg",
+    "name": {
+      "vi": "Cú Mèo",
+      "en": "Owl"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_panda": {
+    "price": 350,
+    "image_path": "assets/pets_svg/panda.svg",
+    "name": {
+      "vi": "Gấu Trúc",
+      "en": "Panda"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_penguin": {
+    "price": 200,
+    "image_path": "assets/pets_svg/penguin.svg",
+    "name": {
+      "vi": "Chim Cánh Cụt",
+      "en": "Penguin"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_pig": {
+    "price": 200,
+    "image_path": "assets/pets_svg/pig.svg",
+    "name": {
+      "vi": "Heo Con",
+      "en": "Piglet"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_sheep": {
+    "price": 200,
+    "image_path": "assets/pets_svg/sheep.svg",
+    "name": {
+      "vi": "Cừu Bông",
+      "en": "Sheep"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_tiger": {
+    "price": 450,
+    "image_path": "assets/pets_svg/tiger.svg",
+    "name": {
+      "vi": "Hổ Nhí",
+      "en": "Tiger Cub"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_turtle": {
+    "price": 250,
+    "image_path": "assets/pets_svg/turtle.svg",
+    "name": {
+      "vi": "Rùa Biển",
+      "en": "Turtle"
+    },
+    "gender": "both",
+    "type": "pet"
+  },
+  "pet_unicorn": {
+    "price": 500,
+    "image_path": "assets/pets_svg/unicorn.svg",
+    "name": {
+      "vi": "Kỳ Lân",
+      "en": "Unicorn"
+    },
+    "gender": "both",
+    "type": "pet"
+  }
+}
