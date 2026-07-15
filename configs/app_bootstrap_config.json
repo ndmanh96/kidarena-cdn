@@ -16,7 +16,7 @@
   "configs": {
     "ads_enabled": true,
     "ad_interval_minutes": 15,
-    "cdn_base_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@v1.0.0",
+    "cdn_base_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main",
     "figure_accessory_translations_url": "/translations/figure_accessory_translations.json",
     "pet_translations_url": "/translations/pet_translations.json"
   },
