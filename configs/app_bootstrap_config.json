@@ -10,8 +10,8 @@
     }
   },
   "configs": {
-    "figure_accessory_translations_url": "http://localhost:8080/cdn/translations/figure_accessory_translations.json",
-    "pet_translations_url": "http://localhost:8080/cdn/translations/pet_translations.json",
+    "figure_accessory_translations_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/translations/figure_accessory_translations.json",
+    "pet_translations_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/translations/pet_translations.json",
     "ad_interval_minutes": 15
   },
   "grades": [
@@ -29,7 +29,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "http://localhost:8080/cdn/questions/grade_1_math.json"
+          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_1_math.json"
         }
       ]
     },
@@ -47,7 +47,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "http://localhost:8080/cdn/questions/grade_2_math.json"
+          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_2_math.json"
         }
       ]
     },
@@ -65,7 +65,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "http://localhost:8080/cdn/questions/grade_3_math.json"
+          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_3_math.json"
         }
       ]
     },
@@ -83,7 +83,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "http://localhost:8080/cdn/questions/grade_4_math.json"
+          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_4_math.json"
         }
       ]
     },
@@ -101,7 +101,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "http://localhost:8080/cdn/questions/grade_5_math.json"
+          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_5_math.json"
         }
       ]
     }
