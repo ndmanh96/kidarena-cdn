@@ -6,13 +6,19 @@
     "soft_update": false,
     "update_url": {
       "android": "https://play.google.com/store/apps/details?id=com.ndmanh96.kidarena",
-      "ios": "https://apps.apple.com/app/id6440000000"
+      "ios": "https://apps.apple.com/app/id/YOUR_APP_ID"
     }
   },
+  "cache": {
+    "bootstrap_ttl_minutes": 60,
+    "content_ttl_hours": 24
+  },
   "configs": {
-    "figure_accessory_translations_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/translations/figure_accessory_translations.json",
-    "pet_translations_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/translations/pet_translations.json",
-    "ad_interval_minutes": 15
+    "ads_enabled": true,
+    "ad_interval_minutes": 15,
+    "cdn_base_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@v1.0.0",
+    "figure_accessory_translations_url": "/translations/figure_accessory_translations.json",
+    "pet_translations_url": "/translations/pet_translations.json"
   },
   "grades": [
     {
@@ -29,7 +35,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_1_math.json"
+          "questions_url": "/questions/grade_1_math.json"
         }
       ]
     },
@@ -47,7 +53,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_2_math.json"
+          "questions_url": "/questions/grade_2_math.json"
         }
       ]
     },
@@ -65,7 +71,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_3_math.json"
+          "questions_url": "/questions/grade_3_math.json"
         }
       ]
     },
@@ -83,7 +89,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_4_math.json"
+          "questions_url": "/questions/grade_4_math.json"
         }
       ]
     },
@@ -101,7 +107,7 @@
             "vi": "Toán học",
             "en": "Mathematics"
           },
-          "questions_url": "https://cdn.jsdelivr.net/gh/ndmanh96/kidarena-cdn@main/questions/grade_5_math.json"
+          "questions_url": "/questions/grade_5_math.json"
         }
       ]
     }
