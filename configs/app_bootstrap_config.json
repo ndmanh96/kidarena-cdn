@@ -33,7 +33,7 @@
           "id": "math",
           "name": {
             "vi": "Toán học",
-            "en": "Mathematics"
+            "en": "Math"
           },
           "questions_url": "/questions/grade_1_math.json"
         }
@@ -51,7 +51,7 @@
           "id": "math",
           "name": {
             "vi": "Toán học",
-            "en": "Mathematics"
+            "en": "Math"
           },
           "questions_url": "/questions/grade_2_math.json"
         }
@@ -69,7 +69,7 @@
           "id": "math",
           "name": {
             "vi": "Toán học",
-            "en": "Mathematics"
+            "en": "Math"
           },
           "questions_url": "/questions/grade_3_math.json"
         }
@@ -87,7 +87,7 @@
           "id": "math",
           "name": {
             "vi": "Toán học",
-            "en": "Mathematics"
+            "en": "Math"
           },
           "questions_url": "/questions/grade_4_math.json"
         }
@@ -105,7 +105,7 @@
           "id": "math",
           "name": {
             "vi": "Toán học",
-            "en": "Mathematics"
+            "en": "Math"
           },
           "questions_url": "/questions/grade_5_math.json"
         }
